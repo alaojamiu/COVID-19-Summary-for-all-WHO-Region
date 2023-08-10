@@ -5,7 +5,7 @@
 ## Introduction 
 This is a Power BI project on COVID-19 Summary Analysis for the World Health Organization (WHO) Regions. The project is to analyze and provide a comprehensive overview of COVID-19 confirmed cases, recoveries, and deaths by country/region, shedding light on the pandemic's different impacts worldwide. The COVID-19 pandemic has had a significant impact on global health and economies. 
 
-**_Disclaimer_**: _This report is based on the available dataset uploaded on Kaggle.com 3 years ago. The COVID-19 situation is rapidly evolving, and new information may impact the analysis. I encourage readers to refer to authoritative sources for the most up-to-date information and guidance._ 
+**_Disclaimer_** : _This report is based on the available dataset uploaded on Kaggle.com 3 years ago. The COVID-19 situation is rapidly evolving, and new information may impact the analysis. I encourage readers to refer to authoritative sources for the most up-to-date information and guidance._ 
 
 ![](map.jpg)
 
